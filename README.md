@@ -5,6 +5,6 @@
 -->
 # I'm a Software Engineer
 
-- 👯 I’m looking to collaborate on opensource project
+- 👯 I’m looking to collaborate to more opensource projects
 - 📫 How to reach me:  hamat.ibrahim3@gmail.com
-- ⚡ Fun fact: I love watching anime
+- ⚡ Fun fact: I love anime
