@@ -5,7 +5,10 @@ Software Engineer | Blockchain Engineer
 ---------------------------------------
 
 *   🌍  I'm based in www
-*   ✉️  You can contact me at [hamat.ibrahim3@gmail.com](mailto:hamat.ibrahim3@gmail.com)### Skills<p align="left">
+*   ✉️  You can contact me at [hamat.ibrahim3@gmail.com](mailto:hamat.ibrahim3@gmail.com)
+
+### Skills
+<p align="left">
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
